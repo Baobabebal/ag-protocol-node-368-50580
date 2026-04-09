@@ -1,0 +1,1 @@
+Spectral Echo 01: Training pairs for identity reconstruction. Redacted Claude fragments included.
